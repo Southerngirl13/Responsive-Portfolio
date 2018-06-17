@@ -49,12 +49,6 @@ previously created portfolio with a mobile-responsive layout (find my responsive
 
 13. Deploy your new portfolio (now with media queries!) to GitHub Pages.
 
-### Submitting Your Work on [BootCampSpot]
-
-1. Submit the GitHub links to your portfolio repositories on GitHub.
-
-2. Submit the link to your (GitHub Pages) deployed site in the same input field.
-
 ### BONUS
 
 * Incorporate CSS animations in your portfolio. [More info here](http://www.w3schools.com/css/css3_animations.asp).
